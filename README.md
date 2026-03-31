@@ -15,3 +15,6 @@ Python • NLP • Transformers • Machine Learning • Data Analysis
 Research Background
 
 This project was developed as part of my M.Tech thesis and later published at ICTIS 2025 (Springer).
+
+Due to size limitations, the trained model files are not included in this repository. Feel free to contact me at:
+anusri.p.29062000@gmail.com for the models.
